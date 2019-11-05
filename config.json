@@ -1,0 +1,17 @@
+{
+    "pin": 5,
+    "pixels": 8,
+    "network_ssid": "SSID",
+    "network_psk": "PSK",
+    "connect_timeout": 10000,
+    "disable_ap": true,
+    "host": "MQTT Host IP Address",
+    "client_name": "Unique client name",
+    "state_topic": "State Topic",
+    "brightness_state_topic": "Brightness State topic",
+    "color_state_topic": "Color state topic",
+    "brightness_topic": "Brightness command topic",
+    "color_topic": "Color command topic",
+    "command_topic": "State command topic",
+    "update_topic": "Update topic"
+}
